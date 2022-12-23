@@ -1,4 +1,4 @@
-# yewのテンプレート
+# yewのテンプレート(最適化済み)
 ```
-trunk serve
+trunk serve --release
 ```
